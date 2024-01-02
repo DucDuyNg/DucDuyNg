@@ -5,11 +5,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Your GitHub Profile</title>
-    <title>GitHub Language Stats</title>
     <style>
             footer {
-                  margin-top: 30px; /* Adjust the value as needed */
+                  margin-top: 30px;
             }
     </style>
 </head>
@@ -64,23 +62,8 @@
             </a>
       </div>
       <footer>
-        <h3>Connect with me:</h3>
+        <h1>Connect with me:</h1>
         <a href="https://www.linkedin.com/in/duy-nguy%E1%BB%85n-%C4%91%E1%BB%A9c-31833029b">LinkedIn</a> |
         <a href="https://www.facebook.com/profile.php?id=100009093654891">Facebook</a>
     </footer>
 </html>
-
-<!--
-**DuyAlann/DuyAlann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
