@@ -5,14 +5,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <style>
-            footer {
-                  margin-top: 30px;
-            }
-            .social-icon {
-                  margin-right: 10px; /* Adjust the space as needed */
-            }
-    </style>
+    <link rel="stylesheet" href="style.css">
 </head>
 <body>
       <h1>Welcome to My GitHub Profile</h1>
