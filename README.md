@@ -9,6 +9,9 @@
             footer {
                   margin-top: 30px;
             }
+            .social-icon {
+                  margin-right: 10px; /* Adjust the space as needed */
+            }
     </style>
 </head>
 <body>
@@ -61,9 +64,15 @@
                   <img src="svg/mobileApp/android-logomark.svg" alt="Android logo" width="40" height="40" />
             </a>
       </div>
-      <footer>
-        <h1>Connect with me:</h1>
-        <a href="https://www.linkedin.com/in/duy-nguy%E1%BB%85n-%C4%91%E1%BB%A9c-31833029b">LinkedIn</a> |
-        <a href="https://www.facebook.com/profile.php?id=100009093654891">Facebook</a>
-    </footer>
+</body>
+<footer>
+      <h1>Connect with me:</h1>
+      <a href="https://www.linkedin.com/in/duy-nguy%E1%BB%85n-%C4%91%E1%BB%A9c-31833029b" target="_blank">
+            <img src="svg/socialMedia/linkedin-icon-2.svg" alt="LinkedIn logo" width="40" height="40" class="social-icon" />
+      </a>
+      <a href="https://www.facebook.com/profile.php?id=100009093654891" target="_blank">
+            <img src="svg/socialMedia/facebook.svg" alt="Facebook logo" width="40" height="40" class="social-icon" />
+      </a>
+</footer>
+
 </html>
